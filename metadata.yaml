@@ -1,0 +1,32 @@
+_repo: Emerson-s-Wife-and-Other-Western-Stories_18309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelly, Florence Finch
+    alias: Finch Kelly, Florence
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '7939'
+    url: http://www.gutenberg.org/2009/agents/7939
+description: ''
+gutenberg_issued: '2006-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+tableOfContents: Emerson's Wife -- Colonel Kate's Protégée -- The Kid of Apache Teju
+  -- A Blaze on Pard Huff -- How Colonel Kate Won Her Spurs -- Hollyhocks -- The Rise,
+  Fall, and Redemption of Johnson Sides -- A Piece of Wreckage -- The Story of a Chinee
+  Kid -- Out of Sympathy -- An Old Roman of Mariposa -- Out of the Mouth of Babes
+  -- Posey -- A Case of the Inner Imperative
+title: Emerson's Wife and Other Western Stories
+url: http://www.gutenberg.org/ebooks/18309
